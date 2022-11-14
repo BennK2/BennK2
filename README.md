@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Benn
+- 👀 I’m interested in Android, Machine Learning and AI
+- 🌱 I’m currently learning Kotlin programming
+- 📫 How to reach me bennkariuki2@gmail.com 
